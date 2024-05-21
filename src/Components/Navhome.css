@@ -1,0 +1,47 @@
+.custbrand
+{
+    font-style: italic;
+    background-color:aqua;
+    color: black;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 5px;
+
+}
+.marginbottom
+{
+    margin-bottom: 2px solid red;
+}
+
+/* .nav-container
+{
+    position: sticky;
+    top: 0px;
+    
+} */
+
+.bg-black
+{
+    height: auto;
+}
+
+.links{
+    width: 80px;
+    padding: 15px;
+    transition: .5s all ease-in; 
+}
+
+.links:hover
+{
+
+    border-radius: 15px;
+    border-top: 2px solid crimson;
+    border-bottom: 3px solid crimson;
+    transition: background-color 0.3s;
+    font-style: italic;
+    background-color: black;
+}
+.navbar-toggler-ico {
+    background-image: url('./menu.png');
+    width: 60px;
+  }
