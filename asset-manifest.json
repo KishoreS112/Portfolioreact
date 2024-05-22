@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Portfolioreact/static/css/main.12cf6472.css",
+    "main.js": "/Portfolioreact/static/js/main.ed32115d.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolioreact/static/js/453.ace21015.chunk.js",
+    "static/media/contactGif.gif": "/Portfolioreact/static/media/contactGif.b2397b1ea60f33e40e30.gif",
+    "static/media/Viewroom.png": "/Portfolioreact/static/media/Viewroom.85207e2254a4c8e1b87d.png",
+    "static/media/hotelbookingimage.png": "/Portfolioreact/static/media/hotelbookingimage.aab9489b07bad05cc3bf.png",
+    "static/media/Fn.png": "/Portfolioreact/static/media/Fn.cb58b670ac50ffc051ae.png",
+    "static/media/L1image.jpg": "/Portfolioreact/static/media/L1image.7032da7ef50349b21322.jpg",
+    "static/media/L2image.jpg": "/Portfolioreact/static/media/L2image.a92c41b851977e4abd99.jpg",
+    "static/media/bookedroom.png": "/Portfolioreact/static/media/bookedroom.b27cf7474bb7f060ebbf.png",
+    "static/media/Bookingform.png": "/Portfolioreact/static/media/Bookingform.5ea8f505a5bf14c3c34e.png",
+    "static/media/Adminpage.png": "/Portfolioreact/static/media/Adminpage.bc4b543f8e6722e2b519.png",
+    "static/media/Wrimage.jpg": "/Portfolioreact/static/media/Wrimage.796fc305a0a58a61ff01.jpg",
+    "static/media/L3image.jpg": "/Portfolioreact/static/media/L3image.6d55c749b51bbcc3885a.jpg",
+    "static/media/instagram.png": "/Portfolioreact/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/sql.jpg": "/Portfolioreact/static/media/sql.0ae875b693991d147f74.jpg",
+    "static/media/javaimage.png": "/Portfolioreact/static/media/javaimage.b443353a7b6fdf74534f.png",
+    "static/media/soapuitoolimage.png": "/Portfolioreact/static/media/soapuitoolimage.f757a06fa0fbf8f2f495.png",
+    "static/media/bootstrap.png": "/Portfolioreact/static/media/bootstrap.39fc01234b56bbf0328c.png",
+    "static/media/Todoimage1.png": "/Portfolioreact/static/media/Todoimage1.94ae36bb67054f4d531f.png",
+    "static/media/Cssimage.png": "/Portfolioreact/static/media/Cssimage.6263b355b587c01273e6.png",
+    "static/media/linkedin.png": "/Portfolioreact/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/Todoimage2.png": "/Portfolioreact/static/media/Todoimage2.bb73d1adca59f82f285a.png",
+    "static/media/Jsimage.png": "/Portfolioreact/static/media/Jsimage.b59d7a18a2afccde7ad0.png",
+    "static/media/cimage.jpg": "/Portfolioreact/static/media/cimage.00dedf657a37532abee4.jpg",
+    "static/media/github.png": "/Portfolioreact/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/dotnetimage.jpg": "/Portfolioreact/static/media/dotnetimage.743510ce460632e0c881.jpg",
+    "static/media/gitimage.jpg": "/Portfolioreact/static/media/gitimage.5b0ff4164de4ea4cf18d.jpg",
+    "static/media/logo.svg": "/Portfolioreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolioreact/index.html",
+    "main.12cf6472.css.map": "/Portfolioreact/static/css/main.12cf6472.css.map",
+    "main.ed32115d.js.map": "/Portfolioreact/static/js/main.ed32115d.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolioreact/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12cf6472.css",
+    "static/js/main.ed32115d.js"
+  ]
+}
