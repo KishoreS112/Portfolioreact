@@ -44,10 +44,13 @@
 
 .PD
 {
-    background-color: whitesmoke;
+    background-color: rgb(250, 234, 4);
     width: 100%;
-    border: 2px solid #ff4c00;
     padding: 10px;
+
+}
+.PD h3{
+    font-weight: bolder;
 }
 
 table td{
@@ -116,7 +119,7 @@ table td{
 }
 .lj p{
     text-align: justify;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 45px;
     margin-top: 20px;
     border-top-left-radius: 20px;

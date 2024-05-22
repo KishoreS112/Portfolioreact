@@ -25,9 +25,9 @@ export default function AboutMe() {
             <div className="PD">
                 <div className="row">
                     <div className="col">
-                        <h3 className="text-center">Personal Details</h3>
+                        <h3 className="text-center  p-3">Personal Details</h3>
                     </div>
-                    <table className="p-3">
+                    <table className="p-5 bg-info w-100">
                         <tr>
                             <th class="text-md-center col-md-6 p-3">Name</th>
                             <td class="text-md-center col-md-6 ">Kishore</td>
@@ -40,13 +40,18 @@ export default function AboutMe() {
                             <th class="text-md-center col-md-6 p-3">Place</th>
                             <td class="text-md-center col-md-6 ">Thanjavur</td>
                         </tr>
+                        
                         <tr>
                             <th class="text-md-center col-md-6 p-3">SSLC & HSC</th>
                             <td class="text-md-center col-md-6 ">Muvendar mr.hr.sec.school</td>
                         </tr>
                         <tr>
                             <th class="text-md-center col-md-6 p-3">College</th>
-                            <td class="text-md-center col-md-6 ">Karpagam College of engineering Coimbatore</td>
+                            <td class="text-md-center col-md-6 ">Karpagam College of engineering,Coimbatore</td>
+                        </tr>
+                        <tr>
+                            <th class="text-md-center col-md-6 p-3">Degree</th>
+                            <td class="text-md-center col-md-6 ">B.Tech Information Technology</td>
                         </tr>
                         <tr>
                             <th class="text-md-center col-md-6 p-3">Email</th>
@@ -115,8 +120,8 @@ export default function AboutMe() {
                 </div>
                 <div className="col-md-7">
 
-                    <p className="text-white p-4">
-                        My quest to master React.js is not merely a personal aspiration; it's a strategic investment in my professional development. Through a structured learning approach, I intend to immerse myself in React.js tutorials, online courses, and practical projects. Drawing upon my existing knowledge of software architecture and design patterns, I seek to unravel the mysteries of component-based development and state management within the React ecosystem. Moreover, I'm eager to collaborate with peers, participate in hackathons, and contribute to open-source projects to accelerate my learning curve and forge meaningful connections within the React community.
+                    <p className="text-white p-4 fs-12">
+                        My quest to master React.js is not merely a personal aspiration;it's a strategic investment in my professional development.Through a structured learning approach, I intend to immerse myself in React.js tutorials, online courses, and practical projects. Drawing upon my existing knowledge of software architecture and design patterns,I seek to unravel the mysteries of component-based development and state management within the React ecosystem. Moreover,I'm eager to collaborate with peers, participate in hackathons, and contribute to open-source projects to accelerate my learning curve and forge meaningful connections within the React community.
                     </p>
                 </div>
             </div>
